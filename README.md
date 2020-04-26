@@ -4,7 +4,7 @@
 
 博客：[qq52o.me](https://qq52o.me)
 
-GitHub：[sy-records](https://github/sy-records)
+GitHub：[sy-records](https://github.com/sy-records)
 
 新浪微博：[@写Bug的路飞](https://weibo.com/i3l4521)
 
@@ -12,7 +12,7 @@ GitHub：[sy-records](https://github/sy-records)
 
 ## WordPress
 
-厂商 | 插件名称 | 插件发布页 | Github  
+厂商 | 插件名称 | 插件发布页 | GitHub  
 腾讯云 | Sync QCloud COS | [https://qq52o.me/2518.html](https://qq52o.me/2518.html) | [wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos)  
 华为云 | OBS HuaWeiCloud | [https://qq52o.me/2734.html](https://qq52o.me/2734.html) | [huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress)  
 七牛云 | KODO Qiniu | [https://qq52o.me/2741.html](https://qq52o.me/2741.html) | [qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress)  
@@ -21,5 +21,5 @@ GitHub：[sy-records](https://github/sy-records)
 
 ## Typecho
 
-厂商 | 插件名称 | 插件发布页 | Github  
+厂商 | 插件名称 | 插件发布页 | GitHub  
 七牛云 | KodoForTypecho | - | [KodoForTypecho](https://github.com/sy-records/KodoForTypecho)  

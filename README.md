@@ -13,6 +13,7 @@ GitHub：[sy-records](https://github.com/sy-records)
 ## WordPress
 
 厂商 | 插件名称 | 插件发布页 | GitHub | 发布版本  
+--- | --- | --- | --- | ---  
 腾讯云 | Sync QCloud COS | [https://qq52o.me/2518.html](https://qq52o.me/2518.html) | [wordpress-qcloud-cos](https://github.com/sy-records/wordpress-qcloud-cos) | [![Latest Version](https://img.shields.io/github/release/sy-records/wordpress-qcloud-cos.svg)](https://github.com/sy-records/wordpress-qcloud-cos/releases/latest)  
 华为云 | OBS HuaWeiCloud | [https://qq52o.me/2734.html](https://qq52o.me/2734.html) | [huaweicloud-obs-wordpress](https://github.com/sy-records/huaweicloud-obs-wordpress) | [![Latest Version](https://img.shields.io/github/release/sy-records/huaweicloud-obs-wordpress.svg)](https://github.com/sy-records/huaweicloud-obs-wordpress/releases/latest)  
 七牛云 | KODO Qiniu | [https://qq52o.me/2741.html](https://qq52o.me/2741.html) | [qiniu-kodo-wordpress](https://github.com/sy-records/qiniu-kodo-wordpress) | [![Latest Version](https://img.shields.io/github/release/sy-records/qiniu-kodo-wordpress.svg)](https://github.com/sy-records/qiniu-kodo-wordpress/releases/latest)  
@@ -23,4 +24,5 @@ GitHub：[sy-records](https://github.com/sy-records)
 ## Typecho
 
 厂商 | 插件名称 | 插件发布页 | GitHub | 发布版本  
+--- | --- | --- | --- | ---  
 七牛云 | KodoForTypecho | - | [KodoForTypecho](https://github.com/sy-records/KodoForTypecho) | [![Latest Version](https://img.shields.io/github/release/sy-records/KodoForTypecho.svg)](https://github.com/sy-records/KodoForTypecho/releases/latest)  
